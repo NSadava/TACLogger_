@@ -1,0 +1,22 @@
+{
+  "name": "TACLogger_Test",
+  "version": "0.1.0",
+  "summary": "A short description of TACLogger_Test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/npatel@tacme.com/TACLogger_Test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "npatel@tacme.com": "nsadava"
+  },
+  "source": {
+    "git": "https://github.com/npatel@tacme.com/TACLogger_Test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TACLogger_Test/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module TACLogger_Test {
+  umbrella header "TACLogger_Test-umbrella.h"
+
+  export *
+  module * { export * }
+}

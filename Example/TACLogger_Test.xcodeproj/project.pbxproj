@@ -42,10 +42,10 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		795E92209C4B89229E9FC369 /* Pods-TACLogger_Test_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TACLogger_Test_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TACLogger_Test_Example/Pods-TACLogger_Test_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9C30EEB7252EEF12E5DB3EC9 /* Pods-TACLogger_Test_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TACLogger_Test_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TACLogger_Test_Tests/Pods-TACLogger_Test_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B37E689DBEF99BA194F2982C /* TACLogger_Test.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TACLogger_Test.podspec; path = ../TACLogger_Test.podspec; sourceTree = "<group>"; };
-		CB117F79C224172005B4F5B8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B37E689DBEF99BA194F2982C /* TACLogger_Test.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TACLogger_Test.podspec; path = ../TACLogger_Test.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CB117F79C224172005B4F5B8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DC288906F834EFAE34873B63 /* Pods-TACLogger_Test_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TACLogger_Test_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TACLogger_Test_Example/Pods-TACLogger_Test_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		DFB9E8631B32ADD0F3CF4B5A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		DFB9E8631B32ADD0F3CF4B5A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F46946E5D384704F44BE315C /* Pods_TACLogger_Test_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TACLogger_Test_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
